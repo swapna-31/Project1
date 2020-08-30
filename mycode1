@@ -1,0 +1,3 @@
+//creat a method
+school sc=new school
+sc.method();
